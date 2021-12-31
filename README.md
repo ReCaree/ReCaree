@@ -5,8 +5,8 @@
 * Learning javascript framework
 * Learning other progamming language
 
-Developer at FlypixelSMP[flypixel] MC server<br />
-Visit FlypixelSMP[flypixel-website] website (Curently down)
+Developer at [FlypixelSMP] MC server<br />
+Visit FlypixelSMP[FlypixelSMP website] website (Curently down)
 
-[flypixel]: https://discord.gg/XVCGXEmEv3
-[flypixel-website]: https://recaree.github.io/flypixel.github.io/
+[FlypixelSMP]: https://discord.gg/XVCGXEmEv3
+[FlypixelSMP website]: https://recaree.github.io/flypixel.github.io/
