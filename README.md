@@ -5,8 +5,8 @@
 * Learning javascript framework
 * Learning other progamming language
 
-Developer at [FlypixelSMP] MC server<br />
-Visit [FlypixelSMP website] website (Curently at erorr)
+## Developer at [FlypixelSMP] MC server<br />
+## Visit [FlypixelSMP website] website (Curently at erorr)
 <br />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=ReCaree&show_icons=true&theme=tokyonight)]
