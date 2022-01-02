@@ -1,6 +1,6 @@
 # Hi Im ReCaree
 
-I like to do :
+##  I like to do :
 * Web designing 
 * Learning javascript framework
 * Learning other progamming language
