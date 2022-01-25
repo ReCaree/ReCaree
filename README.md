@@ -2,8 +2,8 @@
 
 ##  I like to do :
 * Web designing 
-* Learning javascript framework
-* Learning other progamming language
+* Curently Learning Vue3
+* Learning Python
 
 Developer at [**FlypixelSMP**](https://discord.gg/XVCGXEmEv3) MC server<br />
 <!-- Visit [**FlypixelSMP**](https://recaree.github.io/flypixel.github.io/) website -->
