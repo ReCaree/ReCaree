@@ -4,6 +4,7 @@
 * Web designing 
 * Curently Learning Vue3
 * Learning Python
+* Making Javascript Project
 
 Developer at [**FlypixelSMP**](https://discord.gg/XVCGXEmEv3) MC server<br />
 Visit [**FlypixelSMP**](https://recaree.github.io/flypixel/public/index.html) website
