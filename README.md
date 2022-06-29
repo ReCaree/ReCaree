@@ -1,13 +1,7 @@
 # Hi Im ReCaree
 
 ##  What I do :
-* Web designing 
-* Curently Learning Vue3
-* Learning Python
-* Making Javascript Project
-
-Developer at [**FlypixelSMP**](https://discord.gg/XVCGXEmEv3) MC server<br />
-Visit [**FlypixelSMP**](https://recaree.github.io/flypixel/public/index.html) website
-<br />
+* Merge skid code to FDPClient
+* Skid lbplus
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=ReCaree&show_icons=true&theme=tokyonight)](https://github.com/ReCaree)
