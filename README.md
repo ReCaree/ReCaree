@@ -1,6 +1,6 @@
 # Hi Im ReCaree
 
-##  What I do :
+##  What i like to do :
 * Merge skid code to FDPClient
 * Skid lbplus
 
